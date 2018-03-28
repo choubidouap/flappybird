@@ -1,0 +1,107 @@
+{
+    "dir": "ltr",
+    "lang": "English",
+    "name": "Flappy Bird",
+    "scope": "/flappybird/",
+    "display": "standalone",
+    "start_url": "https://choubidouap.github.io/flappybird/",
+    "short_name": "Flappy",
+    "theme_color": "transparent",
+    "description": "Voici un petit flappybird",
+    "orientation": "portrait",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/fc1697e7-1950-4b2c-8b9e-2c5cdc8cddd1.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/cafd93e5-c8a6-0780-dde0-c6ad8a16ae4c.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/468efb3f-f5b7-4cae-3fd4-9d6989ff7eb4.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/77d9b8e2-ab30-ccf6-9b40-78c741867cfe.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d11075c6-c533-3657-4a3e-d5e4ae799977.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/0e031fa5-d078-cf68-e919-bb89487ee049.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/5d2ecc71-0b92-a17d-5b31-6fb472e8d08d.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a731c652-0f41-ed33-1a32-b1cba2ad4cf6.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f12c9140-1e87-7c68-a466-a462a80e411c.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/609079e9-af6e-8bf2-dd30-2c6ffe05b67d.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/11122084-ce79-52a7-be2a-f3c74c2e4824.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b6d397d5-1eb1-036b-b1e3-180a59543258.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6a0b411a-f5a2-2b7d-529c-892c6900b368.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/31f2c1e1-5374-a9ac-3e7e-861d8ffdf974.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/9ff64140-c53a-8bb3-2c2e-df9042446c31.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d8c3e827-edd4-a0e4-a409-731280b1f348.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6feeb6f2-070c-cea9-5a39-dc07077eac14.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/3c4f706e-b83f-9523-7367-214780a75d7a.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
