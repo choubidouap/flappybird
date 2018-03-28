@@ -9,7 +9,7 @@
     "theme_color": "transparent",
     "description": "Voici un petit flappybird",
     "orientation": "portrait",
-    "background_color": "transparent",
+    "background_color": "#0099cc",
     "related_applications": [],
     "prefer_related_applications": false,
     "icons": [
