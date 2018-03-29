@@ -6,7 +6,7 @@
     "display": "standalone",
     "start_url": "https://choubidouap.github.io/flappybird/",
     "short_name": "Flappy",
-    "theme_color": "transparent",
+    "theme_color": "#0099cc",
     "description": "Voici un petit flappybird",
     "orientation": "portrait",
     "background_color": "#0099cc",
